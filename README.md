@@ -1,2 +1,2 @@
 # CSC2510-202410
-Author: Andrew Jeanette
+Author:  Brence Moore
